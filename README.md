@@ -1,6 +1,3 @@
-This 
-
-
 The training and inference notebooks are based on [motono0223's notebook](https://www.kaggle.com/code/motono0223/guie-clip-tensorflow-train-example) and his datasets with my original improvements.
 
 ## Model
